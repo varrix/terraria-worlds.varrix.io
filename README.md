@@ -1,14 +1,14 @@
-# terraria.varrix.io
+# [terraria.varrix.io]
 
 This repository contains backups of worlds friends and I play on.
 
-## downloads
+## [downloads]
 Click one of the following download links to get the corresponding `wld.bak`.
 
 - [latest]
 - [2020_05_28_00:59:28]
 
-## What do I do?
+## quickstart
 
 1. Download the file you want to play on Terraria from the [worlds](worlds/) folder.
 2. Place it in your `../Terraria/Worlds` folder.
@@ -18,7 +18,7 @@ Click one of the following download links to get the corresponding `wld.bak`.
 6. ???
 7. Profit!
 
-## Contributors
+## contributors
 - angie
 - autumn
 - coulten 
@@ -29,8 +29,10 @@ Click one of the following download links to get the corresponding `wld.bak`.
 - tommy
 - varrix
 
-## License
+## license
 Please see [MIT License](LICENSE) for more information.
 
+[terraria-worlds.varrix.io/]: http://terraria-worlds.varrix.io/
+[downloads]: https://github.com/varrix/terraria-worlds.varrix.io/raw/master/worlds
 [latest]: https://github.com/varrix/terraria-worlds.varrix.io/raw/master/worlds/expertclass-2020_05_28_00:59:28.wld.bak
 [2020_05_28_00:59:28]: https://github.com/varrix/terraria-worlds.varrix.io/raw/master/worlds/expertclass-2020_05_28_00:59:28.wld.bak
