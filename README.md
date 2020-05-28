@@ -1,3 +1,5 @@
+![](assets/images/c19-is-getting-to-us.png)
+
 # [terraria-worlds.varrix.io]
 
 This repository contains backups of worlds friends and I play on.
