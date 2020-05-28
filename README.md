@@ -1,4 +1,4 @@
-# [terraria.varrix.io]
+# [terraria-worlds.varrix.io]
 
 This repository contains backups of worlds friends and I play on.
 
@@ -32,7 +32,7 @@ Click one of the following download links to get the corresponding `wld.bak`.
 ## license
 Please see [MIT License](LICENSE) for more information.
 
-[terraria-worlds.varrix.io/]: http://terraria-worlds.varrix.io/
+[terraria-worlds.varrix.io]: http://terraria-worlds.varrix.io/
 [downloads]: https://github.com/varrix/terraria-worlds.varrix.io/raw/master/worlds
 [latest]: https://github.com/varrix/terraria-worlds.varrix.io/raw/master/worlds/expertclass-2020_05_28_00:59:28.wld.bak
 [2020_05_28_00:59:28]: https://github.com/varrix/terraria-worlds.varrix.io/raw/master/worlds/expertclass-2020_05_28_00:59:28.wld.bak
