@@ -21,7 +21,7 @@ Click one of the following download links to get the corresponding `wld.bak`.
 7. Profit!
 
 ## contributors
-- angie
+- angie (aka M&M, aka gimme ur mana, aka minions-r-us, aka minion master angie)
 - autumn
 - coulten (aka YANKEE?!? the no brimmer coulten)
 - jose (aka bk pretzel fries, aka only@bk, aka manwithacastleonacliff josie)
