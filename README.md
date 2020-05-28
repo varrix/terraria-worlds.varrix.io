@@ -2,7 +2,7 @@
 
 # [terraria-worlds.varrix.io]
 
-This repository contains backups of worlds friends and I play on.
+terraria & friends!
 
 ## [downloads]
 Click one of the following download links to get the corresponding `wld.bak`.
