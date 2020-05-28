@@ -1,4 +1,4 @@
-![](Screenshot%20from%202020-05-28%2002-25-46.png)
+![](header.png)
 
 # [terraria-worlds.varrix.io]
 
