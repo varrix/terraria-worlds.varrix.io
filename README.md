@@ -23,12 +23,12 @@ Click one of the following download links to get the corresponding `wld.bak`.
 ## contributors
 - angie
 - autumn
-- coulten 
+- coulten (aka YANKEE?!? the no brimmer coulten)
 - jose (aka bk pretzel fries, aka only@bk, aka manwithacastleonacliff josie)
 - martin
-- muffin
-- scourge
-- tommy
+- muffin (aka vanity vs everyone)
+- scourge (aka im just here to chill scourge)
+- tommy (aka pumpking)
 - varrix
 
 ## license
