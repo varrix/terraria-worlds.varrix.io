@@ -8,7 +8,7 @@ terraria & friends!
 Click one of the following download links to get the corresponding `wld.bak`.
 
 - [latest]
-- [2020_05_28_00:59:28]
+- [v2020-05-28], at `00:59:28`
 
 ## quickstart
 
@@ -35,6 +35,6 @@ Click one of the following download links to get the corresponding `wld.bak`.
 Please see [MIT License](LICENSE) for more information.
 
 [terraria-worlds.varrix.io]: http://terraria-worlds.varrix.io/
-[downloads]: https://github.com/varrix/terraria-worlds.varrix.io/raw/master/worlds
-[latest]: https://github.com/varrix/terraria-worlds.varrix.io/raw/master/worlds/expertclass-2020_05_28_00:59:28.wld.bak
-[2020_05_28_00:59:28]: https://github.com/varrix/terraria-worlds.varrix.io/raw/master/worlds/expertclass-2020_05_28_00:59:28.wld.bak
+[downloads]: https://github.com/varrix/terraria-worlds.varrix.io/releases
+[latest]: https://github.com/varrix/terraria-worlds.varrix.io/releases/latest
+[v2020-05-28]: https://github.com/varrix/terraria-worlds.varrix.io/releases/tag/v2020-05-28
