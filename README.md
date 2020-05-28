@@ -1,4 +1,4 @@
-![](assets/images/c19-is-getting-to-us.png)
+![](Screenshot%20from%202020-05-28%2002-25-46.png)
 
 # [terraria-worlds.varrix.io]
 
