@@ -12,5 +12,16 @@ This repository contains backups of worlds friends and I play on.
 6. ???
 7. Profit!
 
+## Contributors
+- angie
+- autumn
+- coulten 
+- jose (aka bk pretzel fries, aka only@bk, aka manwithacastleonacliff josie)
+- martin
+- muffin
+- scourge
+- tommy
+- varrix
+
 ## License
 Please see [MIT License](LICENSE) for more information.
