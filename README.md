@@ -1,4 +1,4 @@
-![](header.png)
+![](assets/images/header.png)
 
 # [terraria-worlds.varrix.io]
 
