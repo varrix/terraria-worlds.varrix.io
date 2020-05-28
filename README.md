@@ -8,7 +8,7 @@ terraria & friends!
 Click one of the following download links to get the corresponding `wld.bak`.
 
 - [latest]
-- [v2020-05-28], at `00:59:28`
+- [v2020-05-28], at `00:59:28` [download](https://github.com/varrix/terraria-worlds.varrix.io/releases/download/v2020-05-28/expertclass-2020_05_28_00.59.28.wld.bak)
 
 ## quickstart
 
