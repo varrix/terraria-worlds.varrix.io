@@ -37,8 +37,20 @@ Click one of the following download links to get the corresponding `wld.bak`.
 - tommy (aka pumpking)
 - varrix
 
+## adventures..
+
+### When covid19 gets to you...
+
+![](assets/images/aaaaaaaaaa.png)
+![](assets/images/c19-is-getting-to-us.png)
+
 ## license
 Please see [MIT License](LICENSE) for more information.
+
+---
+
+Copyright (c) Logan Speck <logan.d.speck@gmail.com>
+Copyright (c) contributors
 
 [terraria-worlds.varrix.io]: http://terraria-worlds.varrix.io/
 [downloads]: https://github.com/varrix/terraria-worlds.varrix.io/releases
