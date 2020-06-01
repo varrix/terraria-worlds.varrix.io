@@ -8,7 +8,13 @@ terraria & friends!
 Click one of the following download links to get the corresponding `wld.bak`.
 
 - [latest]
+- [v2020-06-01], at `17:39:11` ([download](https://github.com/varrix/terraria-worlds.varrix.io/releases/download/v2020-06-01/expertclass-2020_06_01_17.39.11.wld.bak))
+- [v2020-05-30], at `18:15:34` ([download](https://github.com/varrix/terraria-worlds.varrix.io/releases/download/v2020-05-30/expertclass-2020_05_30_18.15.34.wld.bak))
+- [v2020-05-29.2], at `22:42:19` ([download](https://github.com/varrix/terraria-worlds.varrix.io/releases/download/v2020-05-29.2/expertclass-2020_05_29_22.42.19.wld.bak))
+- [v2020-05-29], at `22:35:37` ([download](https://github.com/varrix/terraria-worlds.varrix.io/releases/download/v2020-05-29/expertclass-2020_05_29_22.35.37.wld.bak))
 - [v2020-05-28], at `00:59:28` ([download](https://github.com/varrix/terraria-worlds.varrix.io/releases/download/v2020-05-28/expertclass-2020_05_28_00.59.28.wld.bak))
+
+
 
 ## quickstart
 
@@ -37,4 +43,9 @@ Please see [MIT License](LICENSE) for more information.
 [terraria-worlds.varrix.io]: http://terraria-worlds.varrix.io/
 [downloads]: https://github.com/varrix/terraria-worlds.varrix.io/releases
 [latest]: https://github.com/varrix/terraria-worlds.varrix.io/releases/latest
+[v2020-06-01]: https://github.com/varrix/terraria-worlds.varrix.io/releases/tag/v2020-06-01
+[v2020-05-30]: https://github.com/varrix/terraria-worlds.varrix.io/releases/tag/v2020-05-30
+[v2020-05-29.2]: https://github.com/varrix/terraria-worlds.varrix.io/releases/tag/v2020-05-29.2
+[v2020-05-29]: https://github.com/varrix/terraria-worlds.varrix.io/releases/tag/v2020-05-29
 [v2020-05-28]: https://github.com/varrix/terraria-worlds.varrix.io/releases/tag/v2020-05-28
+
