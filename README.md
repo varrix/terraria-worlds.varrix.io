@@ -50,6 +50,7 @@ Please see [MIT License](LICENSE) for more information.
 ---
 
 Copyright (c) Logan Speck <logan.d.speck@gmail.com>
+
 Copyright (c) contributors
 
 [terraria-worlds.varrix.io]: http://terraria-worlds.varrix.io/
