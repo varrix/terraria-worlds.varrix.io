@@ -39,7 +39,7 @@ Click one of the following download links to get the corresponding `wld.bak`.
 
 ## pics or didn't happen!
 
-### When covid19 gets to you...
+### when covid19 gets to you...
 
 ![](assets/images/aaaaaaaaaa.png)
 ![](assets/images/c19-is-getting-to-us.png)
