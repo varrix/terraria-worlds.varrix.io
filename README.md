@@ -37,7 +37,7 @@ Click one of the following download links to get the corresponding `wld.bak`.
 - tommy (aka pumpking)
 - varrix
 
-## adventures..
+## pics or didn't happen!
 
 ### When covid19 gets to you...
 
